@@ -1,2 +1,2 @@
 # ANTEIKU
-Chinese restaurant game
+Chinese restaurant game (ZEP)
